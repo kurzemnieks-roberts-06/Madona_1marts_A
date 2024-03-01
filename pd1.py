@@ -9,4 +9,4 @@ def read_text_file(file_name):
         print("Kļūda:", e)
 
 file_name = input("Ievadiet teksta faila nosaukumu: ")
-read_text_file(file_name)
+read_text_file(file_name) 
