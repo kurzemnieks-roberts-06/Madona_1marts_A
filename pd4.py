@@ -13,4 +13,4 @@ def read_file(file_name, file_format):
 
 file_name = input("Ievadiet faila nosaukumu: ")
 file_format = input("Ievadiet faila formātu (txt, csv, json): ")
-read_file(file_name, file_format)
+read_file(file_name, file_format) 
